@@ -586,7 +586,7 @@ section{
     align-items: flex-start !important;
 }
 .about-one{
-    width: 30% !important;
+    width: 30% ;
     padding: 0 1rem;
 }
 .about-one p{
